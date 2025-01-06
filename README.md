@@ -1,6 +1,6 @@
 # RESTAURANTS OPERATIONS ANALYTICS PROJECT
 
-## INTRODUCTION
+## INTRODUCTION:
 
 Objective : 
 
@@ -16,7 +16,7 @@ Price Range Analysis
 Customer Preference Analysis
 Data Visualization, Insights and Recommendations
 
-### EXPLORATION & PREPROCESSING
+### EXPLORATION & PREPROCESSING:
 
 The messy dataset was explored in Excel Power Query, carefully reviewing its structure to identify the number of rows and columns.
 
@@ -30,7 +30,7 @@ By the end, a well-structured dataset without any missing values or duplicate en
 
 
 
-#### RECOMMENDATIONS
+#### RECOMMENDATIONS:
 
 Maintain competitive pricing for mid-range ratings to attract budget-sensitive consumers .
 
@@ -42,7 +42,7 @@ Offer discounts, rewards, or exclusive benefits for users who book tables or ord
 
 Ensure a seamless experience for online delivery and table booking to boost adoption.
 
-##### CONCLUSIONS
+##### CONCLUSIONS:
 
 These recommendations emphasize empowering underperforming restaurants through targeted promotions, enhanced online presence, and replicating successful strategies.
 
