@@ -16,7 +16,7 @@ Data Visualization, Insights and Recommendations
 
 ### EXPLORATION & PREPROCESSING
 
-The messy dataset was explored in Excel Power Query, carefully reviewing its structure to identify the number of rows and columns.
+The messy dataset was explored in Excel Power Query, carefully reviewing its structure to identify the number of rows and columns
 During this process, each column was examined for missing values and ensured that no gaps or inconsistencies were present.
 After identifying and handling any issues with the data, a thorough cleaning was done, eliminating duplicates and addressing any other irregularities. 
 Through this exploration, I ensured the dataset was organized and complete, making it ready for further analysis. 
