@@ -3,9 +3,11 @@
 ## INTRODUCTION
 
 Objective : 
+
 To conduct a comprehensive analysis of Restaurants’ Operations data using Advanced Excel features to uncover actionable insights driving  data-driven decision-making and strategic business growth.
 
 Focus Areas :
+
 Data Exploration and Preprocessing
 Descriptive Analysis
 Geospatial Analysis
@@ -31,16 +33,23 @@ By the end, a well-structured dataset without any missing values or duplicate en
 #### RECOMMENDATIONS
 
 Maintain competitive pricing for mid-range ratings to attract budget-sensitive consumers .
+
 Reinforce value for high-rated businesses through competitive pricing and quality assurance
+
 Increase marketing efforts to raise awareness about table booking and online delivery options.
+
 Offer discounts, rewards, or exclusive benefits for users who book tables or order online.
+
 Ensure a seamless experience for online delivery and table booking to boost adoption.
 
 ##### CONCLUSIONS
 
-These recommendations emphasize empowering underperforming restaurants through targeted promotions, enhanced online presence, and replicating successful strategies. 
+These recommendations emphasize empowering underperforming restaurants through targeted promotions, enhanced online presence, and replicating successful strategies.
+
 Customer incentives like discounts and loyalty rewards foster engagement, while competitive pricing and slight premium adjustments align value with quality. 
+
 Marketing efforts boost visibility for delivery and table bookings, and streamlined digital experiences ensure customer satisfaction. 
+
 Overall, the approach combines data-driven insights, customer focus, and operational excellence to drive growth and establish a competitive edge in the restaurant industr
 
 
